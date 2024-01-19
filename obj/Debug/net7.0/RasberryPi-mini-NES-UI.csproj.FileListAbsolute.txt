@@ -1,0 +1,5 @@
+/home/atlantasit/Documents/Daten/Github/RasberryPi-mini-NES-UI/obj/Debug/net7.0/RasberryPi-mini-NES-UI.csproj.AssemblyReference.cache
+/home/atlantasit/Documents/Daten/Github/RasberryPi-mini-NES-UI/obj/Debug/net7.0/RasberryPi-mini-NES-UI.GeneratedMSBuildEditorConfig.editorconfig
+/home/atlantasit/Documents/Daten/Github/RasberryPi-mini-NES-UI/obj/Debug/net7.0/RasberryPi-mini-NES-UI.AssemblyInfoInputs.cache
+/home/atlantasit/Documents/Daten/Github/RasberryPi-mini-NES-UI/obj/Debug/net7.0/RasberryPi-mini-NES-UI.AssemblyInfo.cs
+/home/atlantasit/Documents/Daten/Github/RasberryPi-mini-NES-UI/obj/Debug/net7.0/RasberryPi-mini-NES-UI.csproj.CoreCompileInputs.cache
