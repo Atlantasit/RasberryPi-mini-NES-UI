@@ -1,0 +1,17 @@
+/home/atlantasit/Documents/Daten/Github/Emulator.NES/dotNES/bin/Release/dotNES.exe.config
+/home/atlantasit/Documents/Daten/Github/Emulator.NES/dotNES/bin/Release/dotNES.exe
+/home/atlantasit/Documents/Daten/Github/Emulator.NES/dotNES/bin/Release/dotNES.pdb
+/home/atlantasit/Documents/Daten/Github/Emulator.NES/dotNES/bin/Release/OpenGL.Net.dll
+/home/atlantasit/Documents/Daten/Github/Emulator.NES/dotNES/bin/Release/OpenGL.Net.WinForms.dll
+/home/atlantasit/Documents/Daten/Github/Emulator.NES/dotNES/bin/Release/OpenGL.Net.pdb
+/home/atlantasit/Documents/Daten/Github/Emulator.NES/dotNES/bin/Release/OpenGL.Net.xml
+/home/atlantasit/Documents/Daten/Github/Emulator.NES/dotNES/bin/Release/OpenGL.Net.WinForms.pdb
+/home/atlantasit/Documents/Daten/Github/Emulator.NES/dotNES/bin/Release/OpenGL.Net.WinForms.xml
+/home/atlantasit/Documents/Daten/Github/Emulator.NES/dotNES/obj/Release/dotNES.csproj.AssemblyReference.cache
+/home/atlantasit/Documents/Daten/Github/Emulator.NES/dotNES/obj/Release/dotNES.Properties.Resources.resources
+/home/atlantasit/Documents/Daten/Github/Emulator.NES/dotNES/obj/Release/dotNES.UI.resources
+/home/atlantasit/Documents/Daten/Github/Emulator.NES/dotNES/obj/Release/dotNES.csproj.GenerateResource.cache
+/home/atlantasit/Documents/Daten/Github/Emulator.NES/dotNES/obj/Release/dotNES.csproj.CoreCompileInputs.cache
+/home/atlantasit/Documents/Daten/Github/Emulator.NES/dotNES/obj/Release/dotNES.csproj.CopyComplete
+/home/atlantasit/Documents/Daten/Github/Emulator.NES/dotNES/obj/Release/dotNES.exe
+/home/atlantasit/Documents/Daten/Github/Emulator.NES/dotNES/obj/Release/dotNES.pdb
